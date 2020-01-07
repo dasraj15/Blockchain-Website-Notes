@@ -8,3 +8,4 @@
 8. Code to learn about bip and Wallet generation from "https://github.com/adesight/hd-wallet-generator/blob/master/app.js"
 9. HD Wallet address generator using "https://iancoleman.io/bip39/".
 10. Ethereum tools list at "https://github.com/ConsenSys/ethereum-developer-tools-list".
+11. Test smart contracts using Truffle for thousands of transactions at "https://medium.com/@andvolkov/how-to-test-smart-contracts-using-truffle-for-thousands-of-transactions-2063ac183544".
